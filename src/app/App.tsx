@@ -26,7 +26,7 @@ const projects: Project[] = [
     category: "Web Design",
     tags: ["UI/UX", "E-Commerce", "Healthcare"],
     year: "2024",
-    link: "https://www.figma.com/file/XXXX",
+    link: "https://www.figma.com/design/IsWpreJ5LU7z1TbGCHG6Q0/Medical-Ecommerce-Website?t=ERZRsZlXTFtFUHpy-1",
   },
 
   {
@@ -34,11 +34,11 @@ const projects: Project[] = [
     title: "Sweet Tooth – Bakery Mobile App",
     description:
       "A visually rich bakery mobile app featuring product listings, food detail screens, and smooth ordering flow designed for an engaging user experience.",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1080&q=80",
+    image: "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=1050&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     category: "Mobile App",
     tags: ["UI/UX", "Mobile App", "Food"],
     year: "2024",
-    link: "https://www.figma.com/file/XXXX",
+    link: "https://www.figma.com/design/ghmiqiZEUEmMFLMEG49ZYH/Bakery-Menu?t=ERZRsZlXTFtFUHpy-1",
   },
 
   {
@@ -50,7 +50,7 @@ const projects: Project[] = [
     category: "Mobile App",
     tags: ["UI/UX", "Sustainability", "Mobile App"],
     year: "2025",
-    link: "https://www.figma.com/file/XXXX",
+    link: "https://www.figma.com/design/Jt5y8UzVmr3K8oxzEx9Wuo/Water-app?node-id=0-1&t=ERZRsZlXTFtFUHpy-1",
   },
 
   {
@@ -62,7 +62,7 @@ const projects: Project[] = [
     category: "Mobile App",
     tags: ["UI/UX", "Education", "Mobile App"],
     year: "2025",
-    link: "https://www.figma.com/file/XXXX",
+    link: "https://www.figma.com/design/ikiKVdHNR6XJ520AyCQ80t/Projects?t=ERZRsZlXTFtFUHpy-1",
   },
 
   {
@@ -70,11 +70,11 @@ const projects: Project[] = [
     title: "Women in Action – Social Cause Website",
     description:
       "A purpose-driven website promoting women empowerment, awareness campaigns, and community initiatives through impactful storytelling and structured layouts.",
-    image: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1080&q=80",
+    image: "https://plus.unsplash.com/premium_photo-1661488569775-2f16dbefca71?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     category: "Web Design",
     tags: ["UI/UX", "Social Impact", "Awareness"],
     year: "2025",
-    link: "https://www.figma.com/file/XXXX",
+    link: "https://www.figma.com/design/8WnyAegIu4KrllTEVjSxka/Website-on-Social-Cause?t=ERZRsZlXTFtFUHpy-1",
   },
 
 {
