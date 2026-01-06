@@ -106,7 +106,7 @@ export default function App() {
       <header className="bg-[#111827]/80 backdrop-blur-md border-b border-gray-800/50 sticky top-0 z-50">
         <div className="max-w-7xl mx-auto px-6 py-5 flex items-center justify-between">
 <div className="flex flex-col">
-  <h1 className="text-2xl md:text-3xl font-bold tracking-wide bg-gradient-to-r from-[#3B82F6] to-[#8B5CF6] bg-clip-text text-transparent">
+  <h1 className="text-2xl md:text-3xl font-bold tracking-wide bg-gradient-to-r from-[#60A5FA] via-[#7C9BFF] to-[#A78BFA] bg-clip-text text-transparent">
     Yashita Raj
   </h1>
   <span className="text-xs text-[#9CA3AF] tracking-widest uppercase">
