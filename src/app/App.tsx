@@ -22,7 +22,7 @@ const projects: Project[] = [
     title: "Aquamarine – Medical E-Commerce Website",
     description:
       "A responsive medical e-commerce website designed for browsing and purchasing healthcare products with clear categorization and a professional, trust-focused UI.",
-    image: "https://images.unsplash.com/photo-1580281657521-9b09d20f0c42?auto=format&fit=crop&w=1080&q=80",
+    image: "https://unsplash.com/photos/a-pile-of-pills-sitting-next-to-each-other-on-top-of-a-table-RS0-h_pyByk",
     category: "Web Design",
     tags: ["UI/UX", "E-Commerce", "Healthcare"],
     year: "2024",
