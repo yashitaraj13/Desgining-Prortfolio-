@@ -105,10 +105,12 @@ export default function App() {
       {/* Header */}
       <header className="bg-[#111827]/80 backdrop-blur-md border-b border-gray-800/50 sticky top-0 z-50">
         <div className="max-w-7xl mx-auto px-6 py-5 flex items-center justify-between">
-          <div className="flex items-center gap-2">
-            <Sparkles className="w-6 h-6 text-[#3B82F6]" />
-            <h1 className="text-xl text-[#E5E7EB] font-semibold">Yashita Raj</h1>
-          </div>
+          <div className="flex items-center gap-3">
+  <h1 className="text-2xl md:text-3xl font-bold tracking-wide text-[#E5E7EB]">
+    Yashita Raj
+  </h1>
+</div>
+
           <div className="flex items-center gap-5">
             <a
               href="#"
