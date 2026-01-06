@@ -77,17 +77,17 @@ const projects: Project[] = [
     link: "https://www.figma.com/file/XXXX",
   },
 
-  {
-    id: 6,
-    title: "Fitness Tracker Mobile App",
-    description:
-      "A modern fitness tracking mobile app concept designed to monitor workouts, health data, and user progress with intuitive data visualization.",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1080&q=80",
-    category: "Mobile App",
-    tags: ["UI/UX", "Health", "Mobile App"],
-    year: "2025",
-    link: "https://www.figma.com/file/XXXX",
-  },
+{
+  id: 6,
+  title: "Fitness Tracker Web Platform",
+  description:
+    "A modern fitness tracking website designed to monitor workouts, health metrics, and user progress through clear dashboards and intuitive data visualizations.",
+  image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1080&q=80",
+  category: "Web Design",
+  tags: ["UI/UX", "Health", "Web Platform"],
+  year: "2025",
+  link: "https://www.figma.com/file/XXXX",
+}
 ];
 
 
