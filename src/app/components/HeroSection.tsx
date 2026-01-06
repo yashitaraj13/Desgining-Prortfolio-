@@ -109,8 +109,8 @@ export function HeroSection() {
 
       {/* Content */}
       <div className="relative z-10 text-center">
-        /* {/* Badge */}
-        <motion.div
+         {/* Badge */}
+        {/* <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
@@ -119,7 +119,7 @@ export function HeroSection() {
           <div className="px-5 py-2.5 bg-[#3B82F6]/10 border border-[#3B82F6]/30 text-[#3B82F6] rounded-full text-sm font-medium backdrop-blur-sm shadow-lg shadow-[#3B82F6]/10">
             UI/UX Designer
           </div>
-        </motion.div> */
+        </motion.div> */} 
 
         {/* Main Heading */}
         <motion.div
