@@ -34,7 +34,7 @@ const projects: Project[] = [
     title: "Sweet Tooth – Bakery Mobile App",
     description:
       "A visually rich bakery mobile app featuring product listings, food detail screens, and smooth ordering flow designed for an engaging user experience.",
-    image: "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=1050&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     category: "Mobile App",
     tags: ["UI/UX", "Mobile App", "Food"],
     year: "2024",
@@ -86,7 +86,7 @@ const projects: Project[] = [
   category: "Web Design",
   tags: ["UI/UX", "Health", "Web Platform"],
   year: "2025",
-  link: "https://www.figma.com/file/XXXX",
+  link: "https://www.figma.com/design/dcFMoe9mVoM4blj7KHo9RP/Fitness-Tracker?node-id=0-1&t=JVRU97jYKg0sWZQB-1",
 }
 ];
 
