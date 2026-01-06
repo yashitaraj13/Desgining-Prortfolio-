@@ -109,9 +109,20 @@ export default function App() {
   <h1 className="text-2xl md:text-3xl font-bold tracking-wide bg-gradient-to-r from-[#60A5FA] via-[#7C9BFF] to-[#A78BFA] bg-clip-text text-transparent">
     Yashita Raj
   </h1>
-  <span className="text-xs text-[#9CA3AF] tracking-widest uppercase">
-    UI/UX Designer
-  </span>
+  <span
+  className="
+    mt-1 inline-flex w-fit items-center
+    px-3 py-1 rounded-full
+    text-xs font-medium uppercase tracking-wider
+    text-[#93C5FD]
+    bg-[#1E3A8A]/30
+    border border-[#60A5FA]/40
+    backdrop-blur-sm
+    shadow-[0_0_18px_rgba(96,165,250,0.25)]
+  "
+>
+  UI/UX Designer
+</span>
 </div>
 
           <div className="flex items-center gap-5">
