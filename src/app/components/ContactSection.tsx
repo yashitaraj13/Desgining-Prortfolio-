@@ -7,21 +7,21 @@ const contactLinks = [
     icon: Mail,
     href: "mailto:yashitaraj04@gmail.com",
     color: "#EF4444",
-    label: "yashitaraj",
+    label: "Send an email",
   },
   {
     name: "LinkedIn",
     icon: Linkedin,
     href: "https://www.linkedin.com/in/yashita-raj",
     color: "#3B82F6",
-    label: "yashitaraj",
+    label: "View Profile",
   },
   {
     name: "GitHub",
     icon: Github,
     href: "https://github.com/yashitaraj13",
     color: "#E5E7EB",
-    label: "yashitaraj",
+    label: "View Projects",
   },
 ];
 
@@ -128,8 +128,7 @@ export function ContactSection() {
                 href={link.href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="group relative flex flex-col items-center gap-3 p-5 bg-[#1F2937]/50 rounded-2xl border border-gray-800/50 hover:border-[#3B82F6]/50 transition-all duration-300 hover:-translate-y-2 min-w-[140px]"
-                initial={{ opacity: 0, y: 20 }}
+                className="group relative flex flex-col items-center gap-3 p-5 bg-[#1F2937]/70 hover:bg-[#1F2937] rounded-2xl border border-gray-800/50 hover:border-[#3B82F6]/50 transition-all duration-300 hover:-translate-y-2 min-w-[140px]"
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
                 transition={{
@@ -174,7 +173,7 @@ export function ContactSection() {
                   >
                     {link.name}
                   </p>
-                  <p className="text-[#6B7280] text-xs">
+                  <p className="text-[#9CA3AF] text-xs tracking-wide">
                     {link.label}
                   </p>
                 </div>
