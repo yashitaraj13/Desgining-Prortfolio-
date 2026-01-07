@@ -7,21 +7,21 @@ const contactLinks = [
     icon: Mail,
     href: "mailto:yashitaraj04@gmail.com",
     color: "#EF4444",
-    label: "yashita@designer.com",
+    label: "yashitaraj",
   },
   {
     name: "LinkedIn",
     icon: Linkedin,
     href: "https://www.linkedin.com/in/yashita-raj",
-    color: "#0A66C2",
-    label: "/yashitaraj",
+    color: "#3B82F6",
+    label: "yashitaraj",
   },
   {
     name: "GitHub",
     icon: Github,
-    href: "github.com/yashitaraj13",
-    color: "#6B7280",
-    label: "/yashitaraj",
+    href: "https://github.com/yashitaraj13",
+    color: "#E5E7EB",
+    label: "yashitaraj",
   },
 ];
 
