@@ -128,6 +128,8 @@ export default function App() {
           <div className="flex items-center gap-5">
             <a
               href="https://github.com/yashitaraj13"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-[#9CA3AF] hover:text-[#8B5CF6] transition-colors duration-300"
               aria-label="GitHub"
             >
@@ -135,6 +137,8 @@ export default function App() {
             </a>
             <a
               href="https://www.linkedin.com/in/yashita-raj"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-[#9CA3AF] hover:text-[#3B82F6] transition-colors duration-300"
               aria-label="LinkedIn"
             >
@@ -142,6 +146,8 @@ export default function App() {
             </a>
             <a
               href="mailto:yashitaraj04@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-[#9CA3AF] hover:text-[#EF4444] transition-colors duration-300"
               aria-label="Email"
             >
