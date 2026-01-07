@@ -127,22 +127,22 @@ export default function App() {
 
           <div className="flex items-center gap-5">
             <a
-              href="#"
-              className="text-[#9CA3AF] hover:text-[#3B82F6] transition-colors duration-300"
+              href="https://github.com/yashitaraj13"
+              className="text-[#9CA3AF] hover:text-[#8B5CF6] transition-colors duration-300"
               aria-label="GitHub"
             >
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/in/yashita-raj"
               className="text-[#9CA3AF] hover:text-[#3B82F6] transition-colors duration-300"
               aria-label="LinkedIn"
             >
               <Linkedin className="w-5 h-5" />
             </a>
             <a
-              href="#"
-              className="text-[#9CA3AF] hover:text-[#3B82F6] transition-colors duration-300"
+              href="mailto:yashitaraj04@gmail.com"
+              className="text-[#9CA3AF] hover:text-[#EF4444] transition-colors duration-300"
               aria-label="Email"
             >
               <Mail className="w-5 h-5" />
