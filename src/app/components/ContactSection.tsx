@@ -5,7 +5,7 @@ const contactLinks = [
   {
     name: "Email",
     icon: Mail,
-    href: "https://mail.google.com/mail/?view=cm&fs=1&to=yashitaraj04@gmail.com&su=Portfolio%20Inquiry&body=Hi%20Yashita,",
+    href: "https://mail.google.com/mail/?view=cm&fs=1&to=yashitaraj04@gmail.com", 
     color: "#EF4444",
     label: "Send an email",
   },
