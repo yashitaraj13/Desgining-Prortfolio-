@@ -145,7 +145,7 @@ export default function App() {
               <Linkedin className="w-5 h-5" />
             </a>
             <a
-              href="mailto:yashitaraj04@gmail.com"
+              href: "https://mail.google.com/mail/?view=cm&fs=1&to=yashitaraj04@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
               className="text-[#9CA3AF] hover:text-[#EF4444] transition-colors duration-300"
